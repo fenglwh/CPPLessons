@@ -1,6 +1,6 @@
 #include <iostream>
-
+#include "CPPLessons/Lesson1_basic_type/Lesson1.h"
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    lesson1();
     return 0;
 }

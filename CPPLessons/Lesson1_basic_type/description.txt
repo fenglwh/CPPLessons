@@ -1,0 +1,17 @@
+
+This class is intend to show:
+  how many basic type cpp contain;
+  how many memory each type occupied, and how to get it.
+  how to declare variable, const.
+
+
+Exercises：
+  use all the basic types
+  get how many memory each type used
+  get the minimum value and maximum value
+
+Extension
+ wchar_t
+ char16_t
+ char_32_t
+

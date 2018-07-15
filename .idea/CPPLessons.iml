@@ -6,8 +6,12 @@
       <sourceFolder url="file://$MODULE_DIR$/CPPLessons/Lesson2_basic_type_convert/Lesson2.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CPPLessons/Lesson1_basic_type/Lesson1.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CPPLessons/Lesson1_basic_type/Lesson1.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CPPLessons/Lesson5_string_function/Lesson5.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CPPLessons/Lesson5_string_function/Lesson5.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CPPLessons/Lesson3_input_output/Lesson3.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CPPLessons/Lesson3_input_output/Lesson3.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CPPLessons/Lesson4_pointer_memory_handling/Lesson4.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CPPLessons/Lesson4_pointer_memory_handling/Lesson4.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lessons.h" isTestSource="false" />
